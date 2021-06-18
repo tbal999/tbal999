@@ -27,8 +27,8 @@ func main() {
 			thirdChan <- f
 		}
 	}()
-	const numberOfWorkers = len("ccrcieaoa toueyngtnndanrn tri da")
-	for i := 0; i < numberOfWorkers; i++ {
+	const numberOfRunes = len("ccrcieaoa toueyngtnndanrn tri da")
+	for i := 0; i < numberOfRunes; i++ {
 		fmt.Printf("%s", string(<-firstChan))
 		fmt.Printf("%s", string(<-secondChan))
 		fmt.Printf("%s", string(<-thirdChan))
