@@ -1,6 +1,7 @@
 ### What I do:
 
-```package main
+```
+package main
 
 import "fmt"
 
