@@ -36,5 +36,3 @@ func main() {
 	fmt.Printf("%s", "\n")
 }
 ```
-
-not sorry
