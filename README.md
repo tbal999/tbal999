@@ -1,6 +1,8 @@
 ### what I do for fun:
 
 ```
+// try running this
+
 package main
 
 import "fmt"
