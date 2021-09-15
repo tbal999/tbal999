@@ -21,7 +21,7 @@ Main Skillset:
 
 - AWS SDK:
 	- Lambda [functions]
-	- SNS [topics/subscriptions]
+	- SNS [pub/sub]
 	- SQS [queues/deadletter queues]
 	- DynamoDB [key value database]
 	- S3 [file storage / key value]
