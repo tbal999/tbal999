@@ -1,6 +1,18 @@
 ```
 Main Skillset:
 
+- Golang:
+	- Testing [end to end / integration / unit]
+	- Mocks
+	- Decoupled design [interfaces / objects]
+	- Test driven development methodology
+	- Software development
+	- Building generic solutions
+	
+- Terraform:
+	- Creating module patterns for simplicity
+	- Creating cloud infrastructure
+
 - Cloud architecture:
 	- Architectural diagrams [draw.io / plantuml]
 	- Requirements elicitation / purpose gathering
@@ -14,18 +26,6 @@ Main Skillset:
 	- DynamoDB [key value database]
 	- S3 [file storage / key value]
 	- Kinesis [streams]
-	
-- Golang:
-	- Testing [end to end / integration / unit]
-	- Mocks
-	- Decoupled design [interfaces / objects]
-	- Test driven development methodology
-	- Software development
-	- Building generic solutions
-	
-- Terraform:
-	- Creating module patterns for simplicity
-	- Creating cloud infrastructure
 	
 - Agile:
 	- Sprint cycles
