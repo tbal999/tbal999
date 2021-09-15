@@ -23,14 +23,14 @@ Main Skillset:
 	- Software development
 	- Building generic solutions
 	
+- Terraform:
+	- Creating module patterns for simplicity
+	- AWS infrastructure
+	
 - Agile:
 	- Sprint cycles
 	- Story sizing
 	- Scrum / Kanban [done both]
-
-- Terraform:
-	- Creating module patterns for simplicity
-	- AWS infrastructure
 	
 - Testing:
 	- Localstack for AWS for end to end testing
