@@ -2,7 +2,7 @@
 Skillset:
 
 - Cloud architecture
-	- Draw.io [architectural diagrams]
+	- Aarchitectural diagrams [draw.io / plantuml]
 	- Requirements elicitation
 	- User story development
 	- Integration design
