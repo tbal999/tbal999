@@ -8,12 +8,12 @@ Main Skillset:
 	- Integration design
 
 - AWS SDK:
-	- Lambda
-	- SNS
-	- SQS
-	- DynamoDB
-	- S3
-	- ...
+	- Lambda [functions]
+	- SNS [topics/subscriptions]
+	- SQS [queues/deadletter queues]
+	- DynamoDB [key value database]
+	- S3 [file storage / key value]
+	- Kinesis [streams]
 	
 - Golang:
 	- Testing [end to end / integration / unit]
