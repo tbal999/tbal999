@@ -40,7 +40,7 @@ Main Skillset:
 	- Push / Add / Pull / Merge / Commit / Rebase(!) etc etc
 	
 - Query languages: 
-	- MS-SQL / TSQL
+	- MSSQL / TSQL
 	- PL/SQL
 	
 - other skills:
