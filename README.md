@@ -44,7 +44,10 @@ Main Skillset:
 	- PL/SQL
 	
 - Other:
-	- Python [automation of manual tasks]
+	- Python:
+		- Pandas
+		- Numpy
+		- Automation
 	- Human interaction(!!)
 	- Data analysis
 ```
