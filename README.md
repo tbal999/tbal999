@@ -21,6 +21,7 @@ Main Skillset:
 	- Decoupled design [interfaces / objects]
 	- Test driven development methodology
 	- Software development
+	- Building generic solutions
 	
 - Agile:
 	- Sprint cycles
