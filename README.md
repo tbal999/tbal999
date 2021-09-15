@@ -25,7 +25,7 @@ Main Skillset:
 	
 - Terraform:
 	- Creating module patterns for simplicity
-	- AWS infrastructure
+	- Creating cloud infrastructure
 	
 - Agile:
 	- Sprint cycles
