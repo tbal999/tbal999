@@ -1,7 +1,7 @@
 ```
-Skillset:
+Main Skillset:
 
-- Cloud architecture
+- Cloud architecture:
 	- Aarchitectural diagrams [draw.io / plantuml]
 	- Requirements elicitation
 	- User story development
@@ -15,21 +15,31 @@ Skillset:
 	- S3
 	- ...
 	
-- Golang
+- Golang:
 	- Testing [end to end / integration / unit]
 	- Mocks
 	- Decoupled design [interfaces / objects]
 	- Test driven development methodology
 	- Software development
 	
-- Terraform
+- Terraform:
 	- Creating module patterns for simplicity
 	- AWS infrastructure
 	
-- Testing
+- Testing:
 	- Localstack for AWS for end to end testing
 	
-- Git
+- Git:
 	- Trunk based development
-	- Git flow
+	- Git flow development
+	- Push / Add / Pull / Merge / Commit / Rebase(!) etc etc
+	
+- Query languages: 
+	- MS-SQL / TSQL
+	- PL/SQL
+	
+- other skills:
+	- Python
+	- Human interaction(!!)
+	- Data analysis
 ```
