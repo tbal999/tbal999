@@ -2,9 +2,9 @@
 Main Skillset:
 
 - Cloud architecture:
-	- Aarchitectural diagrams [draw.io / plantuml]
-	- Requirements elicitation / purpose
-	- User story development
+	- Architectural diagrams [draw.io / plantuml]
+	- Requirements elicitation / purpose gathering
+	- User story writing and creation
 	- Integration design
 
 - AWS SDK:
