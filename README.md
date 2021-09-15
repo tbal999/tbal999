@@ -43,8 +43,8 @@ Main Skillset:
 	- MSSQL / TSQL
 	- PL/SQL
 	
-- other skills:
-	- Python
+- Other:
+	- Python [automation of manual tasks]
 	- Human interaction(!!)
 	- Data analysis
 ```
