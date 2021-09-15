@@ -3,7 +3,7 @@ Main Skillset:
 
 - Cloud architecture:
 	- Aarchitectural diagrams [draw.io / plantuml]
-	- Requirements elicitation
+	- Requirements elicitation / purpose
 	- User story development
 	- Integration design
 
@@ -22,6 +22,11 @@ Main Skillset:
 	- Test driven development methodology
 	- Software development
 	
+- Agile:
+	- Sprint cycles
+	- Story sizing
+	- Scrum / Kanban [done both]
+
 - Terraform:
 	- Creating module patterns for simplicity
 	- AWS infrastructure
