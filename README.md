@@ -1,33 +1,35 @@
-### what I do for fun:
-
 ```
-// try running this
+Skillset:
 
-package main
+- Cloud architecture
+	- Draw.io [architectural diagrams]
+	- Requirements elicitation
+	- User story development
+	- Integration design
 
-import "fmt"
-
-func whatIdo(s string, out chan rune) {
-	defer close(out)
-	for _, f := range s {
-		out <- f
-	}
-}
-
-func main() {
-	const length = 33
-	firstChan := make(chan rune)
-	secondChan := make(chan rune)
-	thirdChan := make(chan rune)
-	go whatIdo("ccrcieaoa t ", firstChan)
-	go whatIdo("oueyngtnnda", secondChan)
-	go whatIdo("nrn tri da", thirdChan)
-	for i := 0; i < length; i++ {
-		fmt.Printf("%s", string(<-firstChan))
-		fmt.Printf("%s", string(<-secondChan))
-		fmt.Printf("%s", string(<-thirdChan))
-	}
-	fmt.Printf("%s", "\n")
-}
-
+- AWS SDK:
+	- Lambda
+	- SNS
+	- SQS
+	- DynamoDB
+	- S3
+	- ...
+	
+- Golang
+	- Testing [end to end / integration / unit]
+	- Mocks
+	- Decoupled design [interfaces / objects]
+	- Test driven development methodology
+	- Software development
+	
+- Terraform
+	- Creating module patterns for simplicity
+	- AWS infrastructure
+	
+- Testing
+	- Localstack for AWS for end to end testing
+	
+- Git
+	- Trunk based development
+	- Git flow
 ```
