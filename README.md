@@ -5,7 +5,6 @@ Main Skillset:
 	- Testing [end to end / integration / unit]
 	- Mocks
 	- Decoupled design [interfaces / objects]
-	- Test driven development methodology
 	- Software development
 	- Building generic solutions
 	
