@@ -45,6 +45,7 @@ Main Skillset:
 	- PL/SQL
 	
 - Other:
+	- Docker / Docker compose
 	- Python:
 		- Pandas
 		- Numpy
