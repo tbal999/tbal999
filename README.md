@@ -48,6 +48,6 @@ Main Skillset:
 		- Pandas
 		- Numpy
 		- Automation
-	- Human interaction(!!)
+	- Soft skills
 	- Data analysis
 ```
