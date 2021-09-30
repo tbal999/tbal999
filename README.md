@@ -37,7 +37,7 @@ Main Skillset:
 - Git:
 	- Trunk based development
 	- Git flow development
-	- Push / Add / Pull / Merge / Commit / Rebase(!) etc etc
+	- Push / Add / Pull / Merge / Commit / Rebase etc
 	
 - Query languages: 
 	- MSSQL / TSQL
