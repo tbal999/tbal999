@@ -35,6 +35,7 @@ Main Skillset:
 	- Localstack for AWS for end to end testing
 	
 - Git:
+	- Github actions
 	- Trunk based development
 	- Git flow development
 	- Push / Add / Pull / Merge / Commit / Rebase etc
