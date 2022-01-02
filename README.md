@@ -1,5 +1,5 @@
 ```
-Main Skillset:
+Hi I'm Tom - please find below my key skills:
 
 - Golang:
 	- Testing [end to end / integration / unit]
