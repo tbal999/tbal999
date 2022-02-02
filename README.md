@@ -1,6 +1,4 @@
-<div>
 ![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tbal999&count_private=true&hide=contribs,prs&show_icons=true&theme=blue-green) 
-</div>
 ```
 Hi I'm Tom - my main skillset:
 
