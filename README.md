@@ -50,6 +50,6 @@ some of the stuff I do:
 		- Pandas
 		- Numpy
 		- Automation [with python anything is possible]
-	- Soft skills
+	- Soft skills [the most important skill - let's be honest here!]
 	- Data analysis
 ```
