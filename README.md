@@ -7,7 +7,7 @@ some of the stuff I do:
 	- Mocks
 	- Decoupled design [interfaces / objects / factories]
 	- Software development!
-	- Building generic solutions
+	- Building generic solutions that are extremely fast & efficient
 	
 - Terraform:
 	- Creating module patterns for simplicity
@@ -30,7 +30,7 @@ some of the stuff I do:
 - Agile:
 	- Sprint cycles
 	- Story sizing
-	- Scrum / Kanban [done both]
+	- Scrum / Kanban [done both extensively & i don't mind either]
 	
 - Testing:
 	- Localstack for AWS for end to end testing
@@ -39,7 +39,6 @@ some of the stuff I do:
 	- Github actions
 	- Trunk based development
 	- Git flow development
-	- Push / Add / Pull / Merge / Commit / Rebase etc
 	
 - Query languages: 
 	- MSSQL / TSQL
@@ -50,7 +49,7 @@ some of the stuff I do:
 	- Python:
 		- Pandas
 		- Numpy
-		- Automation
+		- Automation [with python anything is possible]
 	- Soft skills
 	- Data analysis
 ```
