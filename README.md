@@ -5,8 +5,8 @@ some of the stuff I do:
 - Golang:
 	- Testing [end to end / integration / unit]
 	- Mocks
-	- Decoupled design [interfaces / objects]
-	- Software development
+	- Decoupled design [interfaces / objects / factories]
+	- Software development!
 	- Building generic solutions
 	
 - Terraform:
