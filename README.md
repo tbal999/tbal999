@@ -1,5 +1,6 @@
 ![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tbal999&count_private=true&hide=contribs,prs&show_icons=true&theme=blue-green) 
 ```
+:)
 ```
 <img src="https://komarev.com/ghpvc/?username=tbal999">
 ```
