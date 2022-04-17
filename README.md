@@ -8,6 +8,7 @@ some of the stuff I do:
 	- Decoupled design [interfaces / objects / factories]
 	- Software development!
 	- Building generic solutions that are extremely fast & efficient
+	- Debugging (Delve)
 	
 - Terraform:
 	- Creating module patterns for simplicity
@@ -52,4 +53,5 @@ some of the stuff I do:
 		- Automation [with python anything is possible]
 	- Soft skills [the most important skills - let's be honest here!]
 	- Data analysis
+	- Debugging (again - but VSCode)
 ```
