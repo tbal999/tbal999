@@ -3,12 +3,18 @@
 some of the stuff I do:
 
 - Golang:
-	- Testing [end to end / integration / unit]
-	- Mocks
 	- Decoupled design [interfaces / objects / factories]
-	- Software development!
 	- Building generic solutions that are extremely fast & efficient
 	- Debugging (Delve)
+	
+- Testing:
+	- Localstack for AWS for end to end testing
+	- end to end / integration / unit tests
+	
+- Git:
+	- Github actions
+	- Trunk based development
+	- Git flow development
 	
 - Terraform:
 	- Creating module patterns for simplicity
@@ -32,14 +38,6 @@ some of the stuff I do:
 	- Sprint cycles
 	- Story sizing
 	- Scrum / Kanban [done both extensively & i don't mind either]
-	
-- Testing:
-	- Localstack for AWS for end to end testing
-	
-- Git:
-	- Github actions
-	- Trunk based development
-	- Git flow development
 	
 - Query languages: 
 	- MSSQL / TSQL
