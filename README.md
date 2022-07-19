@@ -42,6 +42,7 @@ some of the stuff I do:
 - Query languages: 
 	- MSSQL / TSQL
 	- PL/SQL
+	- JSONATA
 	
 - Other:
 	- Docker / Docker compose
@@ -51,5 +52,4 @@ some of the stuff I do:
 		- Automation [with python anything is possible]
 	- Soft skills [the most important skills - let's be honest here!]
 	- Data analysis
-	- Debugging (again - but VSCode)
 ```
