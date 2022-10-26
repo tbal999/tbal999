@@ -1,4 +1,4 @@
-![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tbal999&count_private=true&hide=contribs,prs&show_icons=true&theme=blue-green) 
+![Tom's github stats](https://github-readme-stats.vercel.app/api?username=tbal999&count_private=true&hide=contribs,prs&show_icons=true) 
 ```
 some of the stuff I do:
 
