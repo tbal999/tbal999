@@ -6,6 +6,12 @@ some of the stuff I do:
 	- Decoupled design [interfaces / objects / factories]
 	- Building generic solutions that are extremely fast & efficient
 	- Debugging (Delve)
+
+- K8s & Docker:
+	- Helm charts
+	- Amazon EKS
+	- Google GKE
+	- Docker-compose
 	
 - Testing:
 	- Localstack for AWS for end to end testing
@@ -33,12 +39,7 @@ some of the stuff I do:
 	- DynamoDB [key value database]
 	- S3 [file storage / key value]
 	- Kinesis [streams]
-	
-- Agile:
-	- Sprint cycles
-	- Story sizing
-	- Scrum / Kanban [done both extensively & i don't mind either]
-	
+
 - Query languages: 
 	- MSSQL / TSQL
 	- PL/SQL
