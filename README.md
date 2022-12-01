@@ -46,7 +46,6 @@ some of the stuff I do:
 	- JSONATA
 	
 - Other:
-	- Docker / Docker compose
 	- Python:
 		- Pandas
 		- Numpy
