@@ -9,10 +9,10 @@ some of the stuff I do:
 
 - K8s & Docker:
 	- Helm charts
-	- Amazon EKS
-	- Google GKE
-	- Docker-compose
-	
+	- Kubectl
+	- EKS / GKE / Minikube / K3s etc etc
+	- Docker
+
 - Testing:
 	- Localstack for AWS for end to end testing
 	- end to end / integration / unit tests
