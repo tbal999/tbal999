@@ -1,3 +1,5 @@
+![tbal999's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbal999&count_private=true)
+
 ```
 some of the stuff I do:
 
