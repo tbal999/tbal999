@@ -7,10 +7,10 @@ some of the stuff I do:
 	- Debugging (Delve)
 
 - K8s & Docker:
-	- Helm charts
-	- Kubectl
-	- EKS / GKE / Minikube / K3s etc etc
-	- Docker
+	- I can build fully functional production ready k8s environment on multi-VPS solutions.
+	- k8s.fern91.com is a live example of a fully ci/cd multi-environment k8s solution that only costs £8 a month.
+	- the stack is: Taskfile, Kustomize, Helm, Kapp, Git and Go.
+	- You can use any k8s cluster you want. Minikube. Kind. k3s. k0s. GKE. EKS. It doesn't matter. I use k0s.
 
 - Testing:
 	- Localstack for AWS for end to end testing
